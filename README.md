@@ -8,7 +8,7 @@
 
 ## Datos
 
-Los datos del proyecto vienen de https://www.kaggle.com/datasets/colormap/spambase, y antes para que se hagan disponibles en el notebook de Colab es neecsario descargar el archivo .json de Kaggle que está asociado a la cuenta propia y digitar los datos del nombre de usuario (username) y clave (key) en la celda especifica para esto. Ejecutar el notebook secuencialmente. 
+Los datos del proyecto vienen de https://www.kaggle.com/datasets/colormap/spambase, y antes para que se hagan disponibles en el notebook de Colab es necesario descargar el archivo .json de Kaggle que está asociado a la cuenta propia y digitar los datos del nombre de usuario (username) y clave (key) en la celda especifica para esto. Ejecutar el notebook secuencialmente. 
 
 ## Vídeos
 
